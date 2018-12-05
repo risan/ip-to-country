@@ -1,4 +1,4 @@
-# NPM Boilerplate Node
+# IP to Country
 
 [![Build Status](https://flat.badgen.net/travis/risan/ip-to-country)](https://travis-ci.org/risan/ip-to-country)
 [![Test Coverage](https://flat.badgen.net/codeclimate/coverage/risan/ip-to-country)](https://codeclimate.com/github/risan/ip-to-country)

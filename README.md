@@ -1,25 +1,19 @@
 # IP to Country
 
-[![Build Status](https://flat.badgen.net/travis/risan/ip-to-country)](https://travis-ci.org/risan/ip-to-country)
-[![Test Coverage](https://flat.badgen.net/codeclimate/coverage/risan/ip-to-country)](https://codeclimate.com/github/risan/ip-to-country)
-[![Maintainability](https://flat.badgen.net/codeclimate/maintainability/risan/ip-to-country)](https://codeclimate.com/github/risan/ip-to-country)
-[![Latest Stable Version](https://flat.badgen.net/npm/v/@risan/ip-to-country)](https://www.npmjs.com/package/@risan/ip-to-country)
-[![Node Version](https://flat.badgen.net/npm/node/@risan/ip-to-country)](https://www.npmjs.com/package/@risan/ip-to-country)
-[![Code Style: Prettier](https://flat.badgen.net/badge/code%20style/prettier/ff69b4)](https://github.com/prettier/prettier)
-[![License](https://flat.badgen.net/npm/license/@risan/ip-to-country)](https://github.com/risan/ip-to-country/blob/master/LICENSE)
+[![Build Status](https://badgen.net/travis/risan/ip-to-country)](https://travis-ci.org/risan/ip-to-country)
+[![Test Covarage](https://badgen.net/codecov/c/github/risan/ip-to-country)](https://codecov.io/gh/risan/ip-to-country)
+[![Greenkeeper](https://badges.greenkeeper.io/risan/ip-to-country.svg)](https://greenkeeper.io)
+[![Latest Version](https://badgen.net/npm/v/@risan/ip-to-country)](https://www.npmjs.com/package/@risan/ip-to-country)
 
 Get country from IP address using [MaxMind](https://www.maxmind.com) GeoLite2 binary database.
 
-## Install
+## Installation
 
 ```bash
 $ npm install @risan/ip-to-country
-
-# Or if you use Yarn
-$ yarn add @risan/ip-to-country
 ```
 
-## Quick Start
+## Usage
 
 ```js
 const ipToCountry = require("@risan/ip-to-country");
@@ -96,7 +90,7 @@ It returns a `Promise` which when resolved contains `undefined` or an `Object`. 
 
 ## License
 
-CC-BY-SA 4.0 · [Risan Bagja Pradana](https://bagja.net)
+[CC-BY-SA 4.0](https://github.com/risan/ip-to-country/blob/master/LICENSE.txt) · [Risan Bagja Pradana](https://bagja.net)
 
 > This product includes GeoLite2 data created by MaxMind, available from
 [https://www.maxmind.com](http://www.maxmind.com). GeoLite2 Database and Contents Copyright (c) 2018 MaxMind, Inc.

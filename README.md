@@ -20,7 +20,7 @@ const ipToCountry = require("@risan/ip-to-country");
 
 (async () => {
   try {
-    const result = ipToCountry("123.45.6.7");
+    const result = await ipToCountry("123.45.6.7");
 
     if (result) {
       console.log(result);

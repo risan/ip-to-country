@@ -1,6 +1,6 @@
 {
   "name": "@risan/ip-to-country",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get country from IP address.",
   "keywords": [
     "geoip",

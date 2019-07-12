@@ -33,7 +33,7 @@
     "@risan/is-empty": "1.x",
     "@risan/is-plain-obj": "1.x",
     "country-flag-emoji": "1.x",
-    "maxmind": "^3.0.0"
+    "maxmind": "^3.1.1"
   },
   "devDependencies": {
     "eslint": "^5.9.0",

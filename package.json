@@ -32,7 +32,7 @@
   "dependencies": {
     "@risan/is-empty": "1.x",
     "@risan/is-plain-obj": "1.x",
-    "country-flag-emoji": "1.x",
+    "country-flag-emoji": "^1.0.3",
     "maxmind": "^3.0.0"
   },
   "devDependencies": {

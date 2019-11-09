@@ -42,7 +42,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-prettier": "^3.0.0",
     "jest": "^23.6.0",
-    "prettier": "^1.15.2"
+    "prettier": "^1.19.1"
   },
   "engines": {
     "node": ">=8.0.0"
